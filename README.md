@@ -1,5 +1,5 @@
 
-  # Task 2
+  # Wedding Website
   # [Click here](https://karl-and-ginas-wedding-website.netlify.app/) to view website
   # All copyrights reserverd @ 2023
   # Feel free to connect and contribute
