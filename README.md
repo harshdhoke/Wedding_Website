@@ -1,5 +1,6 @@
 
   # Task 2
+  # [Click here](https://karl-and-ginas-wedding-website.netlify.app/) to view website
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
